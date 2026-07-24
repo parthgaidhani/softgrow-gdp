@@ -19,4 +19,4 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
 
 3. Badge
-![MCP Health](https://mcp-studio-19251.web.app/api/badge/react/react.svg)
+<img width="840" height="915" alt="image" src="https://github.com/user-attachments/assets/c344bae0-27fc-405e-9930-4d02b3d19f2a" />
