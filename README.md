@@ -19,4 +19,4 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
 
 3. Badge
-<img width="840" height="915" alt="image" src="https://github.com/user-attachments/assets/c344bae0-27fc-405e-9930-4d02b3d19f2a" />
+4. <img width="157" height="22" alt="image" src="https://github.com/user-attachments/assets/bf1ce31a-4541-4b49-9975-21fac8c453ea" />
