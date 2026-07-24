@@ -17,5 +17,6 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+
 3. Badge
 ![MCP Health](https://mcp-studio-19251.web.app/api/badge/react/react.svg)
