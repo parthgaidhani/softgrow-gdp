@@ -18,5 +18,4 @@ A simple Streamlit app showing the GDP of different countries in the world.
    $ streamlit run streamlit_app.py
    ```
 
-3. Badge
-4. <img width="157" height="22" alt="image" src="https://github.com/user-attachments/assets/bf1ce31a-4541-4b49-9975-21fac8c453ea" />
+
