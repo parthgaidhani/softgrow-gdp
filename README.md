@@ -1,6 +1,7 @@
-# :earth_americas: GDP Dash System
+# :earth_americas: GDP Dashboard!
 
-A simple Streamlit app showing the GDP of different countries in the world. Enjoy!
+A simple Streamlit app showing the GDP of different countries in the world. 
+Enjoy! 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
