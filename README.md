@@ -26,6 +26,8 @@ streamlit run streamlit_app.py
 
 [**Open GDP Dashboard →**](https://gdp-dashboard-template.streamlit.app/)
 
+ Explore Now!
+  
 ---
 
 <div align="center">
