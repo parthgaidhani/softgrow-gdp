@@ -5,7 +5,6 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python\&logoColor=white)]
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)]
-[![Verified by MCP DevHub](https://mcpdevhub.com/api/badge/parthgaidhani/softgrow-gdp.svg)](https://mcpdevhub.com/verify/MDH-KP51H)
 
 ## ✨ Features
 
